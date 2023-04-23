@@ -1,7 +1,7 @@
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: 카밀라 이달고
+name_pronunciation: Camila Hidalgo
 
 # Is this the primary user of the site?
 superuser: true
@@ -19,7 +19,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ''
+bio: 'Soy la mas hermosa do mundo mundial'
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
